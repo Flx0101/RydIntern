@@ -1,0 +1,8 @@
+appdirs==1.4.4
+async-generator==1.10
+pyaes==1.6.1
+pyasn1==0.4.8
+PyPDF2==1.26.0
+rsa==4.6
+Telethon==1.14.0
+tqdm==4.46.1
